@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 500px;
+    height: 250px;
+  margin: 100px auto;
+  background-color:#EDF1F8;
+ 
+
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+    background-color:#EDF1F8;
+  }
+
+  
+  input {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+
+
+
+  .searchbutton{
+    margin: 0px 120px;
+  }
+ 
+  
+  .results {
+    padding: 20px;
+  }
+  
